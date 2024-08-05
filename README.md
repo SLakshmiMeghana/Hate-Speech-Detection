@@ -12,6 +12,6 @@ Hate Speech Detection is a project aimed at identifying and classifying hate spe
 
 
 ## Dataset
-The dataset used in this project consists of labeled tweets indicating whether they contain hate speech or not. You can find and download the dataset from [](#https://www.kaggle.com/datasets/thedevastator/hate-speech-and-offensive-language-detection). 
+The dataset used in this project consists of labeled tweets indicating whether they contain hate speech or not. You can find and download the dataset from [here]( https://www.kaggle.com/datasets/thedevastator/hate-speech-and-offensive-language-detection). 
 ## Model
 This project uses a Decision Tree classifier to detect hate speech.
